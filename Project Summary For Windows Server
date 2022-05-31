@@ -1,0 +1,40 @@
+Final Project - Full Office Deployment Proposal 
+
+Overview
+It’s time to bring together everything you have learned in your lab simulations and projects. The final project assesses how well you have learned the material that has been taught including the hands-on projects throughout the semester. The final project will include ambiguity. Ambiguity is defined as inexactness or vagueness; being open to multiple interpretations. 
+
+Instructions
+Be sure to carefully read the instructions and make note of any questions you may have for your instructor. Review the scenario below and create an executive summary that includes an embedded video presenting your proposal for your full office deployment for PL.com. Your executive summary should address each aspect of the scenario below. 
+Scenario - Full Office Deployment Proposal for PromisedLand at Hukilau Marketplace
+PromisedLand.com has made the decision to open new office space at the Hukilau Marketplace located at 55-370 Kamehameha Hwy, Laie, HI. 96762. The new space will occupy 7,000 square feet and 45 employees. The space will serve as a hybrid call center that includes several tourist guide stations providing assistance, information on cultural, historical, and contemporary heritage to people looking for guided sightseeing tours. 
+Please refer to the organizational chart below as a way to help you in your full deployment implementation. 
+ 
+
+Part I - Please include a written description in your executive summary of the following elements that will be part of your full office deployment using best practices:
+
+●	Server Architecture and Server Baseline
+●	Storage Capacity
+●	Hardware and Software Troubleshooting
+●	Server Backup/Restore
+●	Encrypted File System
+●	Security Protection
+●	Server Hardening
+●	Users and Groups for Active Directory
+●	Principle of Least Privilege
+●	Disaster Recovery
+
+Part II - Delete your old virtual machine and create two new virtual machines running Windows Server 2019 Datacenter. Create a video to embed in your executive summary that demonstrates you have installed the following using best practices:
+
+●	Forest/Domain Titled PL.com
+●	ADDS, DHCP, and DNS
+●	File Sharing Services
+●	Storage using iSCSI
+●	Raid 1+0 Array 
+●	Server Remote Access using RDP port 3389
+●	NIC Teaming
+●	Static IP Addresses
+●	Print Management
+●	Web Server (IIS) + Digital Certificate
+●	Database Services
+●	Full Server Backup
+●	Adequate Firewall Rules
