@@ -23,7 +23,7 @@ Part I - Please include a written description in your executive summary of the f
 ●	Principle of Least Privilege
 ●	Disaster Recovery
 
-Part II - Delete your old virtual machine and create two new virtual machines running Windows Server 2019 Datacenter. Create a video to embed in your executive summary that demonstrates you have installed the following using best practices:
+Part II - Create a video to embed in your executive summary that demonstrates you have installed the following using best practices on Windows Server 2019 Datacenter:
 
 ●	Forest/Domain Titled PL.com
 ●	ADDS, DHCP, and DNS
